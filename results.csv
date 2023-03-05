@@ -1,0 +1,2 @@
+,lr,batch_size,epochs,patience,min_delta,seed,loss,accuracy
+0,5e-05,32,10,5,0.1,0,1.9265949726104736,0.8980000019073486
